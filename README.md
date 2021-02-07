@@ -20,13 +20,13 @@ Instructions to run test cases.
      
      provide the actual file names that you want to encrypt in place of file1.txt, file2.txt and so on.
      
-  3. Test Cases will check for.
-      i. File names provided in command line or not.
-          This test case will pass only if you have provided a filenames prefixed with --file otherwise it will fail.
-      ii. File Format.
-          This test case will only pass if the file format provided is of ".txt" type otherwise it will fail.
-      iii. Files Generated.
-          This test case will only pass if the process is successful and encrypted files are generated otherwise it will fail.
+  3. Test Cases will check for:
+      1. File names provided in command line or not.
+      This test case will pass only if you have provided a filenames prefixed with --file otherwise it will fail.
+      2. File Format.
+      This test case will only pass if the file format provided is of ".txt" type otherwise it will fail.
+      3. Files Generated.
+      This test case will only pass if the process is successful and encrypted files are generated otherwise it will fail.
           
           
   
